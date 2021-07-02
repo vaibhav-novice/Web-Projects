@@ -1,0 +1,39 @@
+#navbar{
+    flex-direction: column;
+
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 5px;
+    padding-bottom: 3px;
+}
+
+#home{
+height:280px;
+padding: 3px 110px;
+}
+#home::before{
+    height:400px;
+    
+    }
+    #home p{
+        font-size: 1rem;
+    }
+#services{
+    flex-direction: column;
+}
+#clients{
+flex-wrap: wrap;
+}
+#clients img{
+    width: 41px;
+    padding: auto;
+    height: auto;
+}
+.h-primary{
+    font-size: 1.2rem;
+}
+.btn{
+    font-size: 1rem;
+    padding: auto;
+}
